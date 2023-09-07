@@ -11,7 +11,7 @@ from IPython.core.display import display, HTML   #ipython
 display(HTML("<style>.container { width:100% !important; }</style>"))
 
 # dates
-start = datetime.datetime(2000, 1, 2)
+start = datetime.datetime(2007, 1, 2)
 end = datetime.datetime(2023, 9, 5)
 
 # fetch
